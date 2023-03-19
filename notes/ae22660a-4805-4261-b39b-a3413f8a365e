@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ae22660a-4805-4261-b39b-a3413f8a365e
+:END:
+#+title: cpp 类和对象
+#+filetags: cpp
+
+
+| 概念         | 描述 |
+|-------------+-----|
+|             |     |
+| [[id:322e88cc-db0e-4638-929c-ee05039bd6de][cpp 友元]]     |     |
+| [[id:8a66af06-f8d1-4b1e-9921-b51b8975b2b1][cpp 虚函数]]   |     |
+| [[id:0b923a02-b785-4c3a-bf71-88d2cb265ddb][cpp this指针]] |     |
