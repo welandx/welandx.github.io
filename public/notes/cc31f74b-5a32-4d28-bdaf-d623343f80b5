@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc31f74b-5a32-4d28-bdaf-d623343f80b5
+:END:
+#+title: 路由器
+#+filetags: 计网
+LPMR 最长前缀匹配规则
+
+等待队列和数据调度
+- FIFO 先进先出
+- Priority Queuing 优先队列
+－ Round Robin and Weighted Fair Queuing(WFQ) 循环与加权公平队列
