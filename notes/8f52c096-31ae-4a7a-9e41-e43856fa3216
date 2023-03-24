@@ -83,3 +83,10 @@ LEFT JOIN
 RIGHT JOIN
 MySQL 不支持全外连接(FULL JOIN)
 
+*** 内连接
+
+
+** UNION
+用于连接 SELECT 的查询结果, 会删除重复的数据(即默认 DISTINCT)
+
+
