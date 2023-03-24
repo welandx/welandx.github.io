@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       a2d1f6f9-2359-42c3-85e8-82ce661ef3d1
-:END:
-#+title: cpp 类访问修饰符
-#+filetags: cpp
-
-成员和类的默认访问修饰符是 ~private~
